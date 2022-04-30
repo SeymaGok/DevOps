@@ -8,7 +8,7 @@ At the end of the this hands-on training, students will be able to;
 
 - explain what Docker Compose is.
 
-- install docker-compose-cli
+- install docker-compose-cli 
 
 - explain what the `docker-compose.yml` is.
 
