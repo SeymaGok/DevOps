@@ -430,7 +430,7 @@ git push origin dev
 
 ``` bash
 git checkout dev
-git branch feature/msp-8
+git branch feature/
 git checkout feature/msp-8
 ```
 
